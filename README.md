@@ -1,6 +1,7 @@
 # Graph Doting 2D Template
 
-Professional React + Node.js implementation of the "Template for Graph Doting 2D" task.
+Full-stack Graph Doting 2D app for creating and grading coordinate-graph questions.
+React + TypeScript frontend and Node/Express API with validation, seeded examples, interactive plotting, and automatic point-by-point evaluation.
 
 ## What This Delivers
 
