@@ -73,13 +73,29 @@ npm run build
 ![Operation Form](screenshots/operation-form.png)
 
 
+
+
+
+
+
 ![Operation Form](screenshots/operation-form2.png)
 
 ### Results
 ![Results](screenshots/results.png)
 
 
+
+
+
+
+
 ![Results](screenshots/results2.png)
+
+
+
+
+
+
 
 
 ![Results](screenshots/results3.png)
