@@ -65,9 +65,7 @@ npm run build
 - The backend seeds two example tasks matching the sample PDF (scatter and line graph examples).
 - The frontend uses `/api` proxying to the Node server for local development.
 
-##Example Payload (Create Template)
 
-##screenshots
 ### Home Page
 ![Home Page](screenshots/home.png)
 
